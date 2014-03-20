@@ -232,8 +232,8 @@
 										<ul>
 											<li>3 Bed - 1 Bath</li>
 											<li>1,018 Sq Ft - 7,936 Lot</li>
-											<li>List: 1/23/14 - Sold: Pending</li>
-											<li>List: $359,000 - SOLD: Pending</li>
+											<li>Pending: 2/26/14</li>
+											<li>List: $380,000 - COE: $426,000</li>
 										</ul>
 									</article>
 								</div>
