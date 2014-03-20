@@ -48,7 +48,8 @@
 							<ul>
 								<li><a href="#top" id="top-link" class="skel-panels-ignoreHref"><span class="icon icon-home">Intro</span></a></li>
 								<li><a href="#portfolio" id="portfolio-link" class="skel-panels-ignoreHref"><span class="icon icon-th">Listing Services</span></a></li>
-								<li><a href="#about" id="about-link" class="skel-panels-ignoreHref"><span class="icon icon-dollar">Market Analysis</span></a></li>
+								<li><a href="#recentsales" id="recentsales-link" class="skel-panels-ignoreHref"><span class="icon icon-dollar">Recent Sales</span></a></li>
+								<li><a href="#about" id="about-link" class="skel-panels-ignoreHref"><span class="icon icon-bar-chart">Market Analysis</span></a></li>
 								<li><a href="#contact" id="contact-link" class="skel-panels-ignoreHref"><span class="icon icon-group">About Us</span></a></li>
 								<li><a href="#contact" id="contact-link" class="skel-panels-ignoreHref"><span class="icon icon-phone">Call Kenny - 510.545.6932</span></a></li>
 								<li><a href="#contact" id="contact-link" class="skel-panels-ignoreHref"><span class="icon icon-phone">Call Kevin - 510.995.0015</span></a></li>
@@ -189,7 +190,59 @@
 						</div>
 					</section>
 
-				<!-- About Me -->
+					<!-- Recent Sales -->
+					<section id="recentsales" class="three" style="background-color:#7f8c8d;">
+						<div class="container">
+							<header>
+								<h2 style="color: #fff;">Recent Sales</h2>
+								<h3 style="color: #ecf0f1;">Check out what else we've sold!</h3>
+							</header>
+							<div class="row">
+								<div class="4u">
+									<article class="item">
+										<a href="images/sale1.jpg" class="image full fancybox"><img src="images/sale1.jpg" alt="" /></a>
+										<header>
+										<h3><strong>15 Edgecroft Road - Kensington</strong></h3>
+										<ul>
+											<li>4 Bed - 3 Bath</li>
+											<li>2,023 Sq Ft -  5,141 Lot</li>
+											<li>List: 9/6/13 - Sold: 11/19/13</li>
+											<li>List: $748,000 - SOLD $780,000</li>
+										</ul>
+									</article>
+								</div>
+								<div class="4u">
+									<article class="item">
+										<a href="images/sale2.jpg" class="image full fancybox"><img src="images/sale2.jpg" alt="" /></a>
+										<header>
+										<h3><strong>1737 Spruce St - San Leandro</strong></h3>
+										<ul>
+											<li>3 Bed - 1 Bath</li>
+											<li>1,096 Sq Ft - 5,760 Lot</li>
+											<li>List:11/21/13 - Sold: 12/5/13</li>
+											<li>List: $399,900 - SOLD $477,000</li>
+										</ul>
+									</article>
+								</div>
+								<div class="4u">
+									<article class="item">
+										<a href="images/sale3.jpg" class="image full fancybox"><img src="images/sale3.jpg" alt="" /></a>
+										<header>
+										<h3><strong>2427 State St - San Leandro</strong></h3>
+										<ul>
+											<li>3 Bed - 1 Bath</li>
+											<li>1,018 Sq Ft - 7,936 Lot</li>
+											<li>List: 1/23/14 - Sold: Pending</li>
+											<li>List: $359,000 - SOLD: Pending</li>
+										</ul>
+									</article>
+								</div>
+							</div>
+						</div>
+					</section>
+
+
+				<!-- Market Analysis -->
 					<section id="about" class="three">
 						<div class="container">
 							<header>
